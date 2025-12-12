@@ -1,0 +1,5 @@
+{
+  "name": "QuickList",
+  "description": "A simple, clean task manager that converts comma-separated values into interactive checklists. Features Firebase authentication and list duplication.",
+  "requestFramePermissions": []
+}
